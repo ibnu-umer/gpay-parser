@@ -104,17 +104,6 @@ pip install pdfplumber pandas
 -   And dashboard visualization (Matplotlib/Plotly)
 -   Package as CLI tool (pip install gpay-parser)
 
-## 📦 Packaging
-
-If you plan to distribute or install this tool like a Python package, you can easily do so by adding a `setup.py` or `pyproject.toml` file at the project root.
-
-This allows you to install and run it anywhere with:
-
-```bash
-pip install .
-gpay-parser --file my_statement.pdf
-```
-
 ## ⚠️ Disclaimer
 
 This project is not affiliated with Google or Google Pay.
